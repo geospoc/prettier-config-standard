@@ -1,0 +1,47 @@
+{
+  "name": "@geospoc/prettier-config-standard",
+  "description": "Prettier config for JS / TS Apps",
+  "version": "0.0.1",
+  "sideEffects": false,
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
+  },
+  "files": [
+    "index.json"
+  ],
+  "main": "index.json",
+  "license": "MIT",
+  "author": {
+    "name": "GeoSpoc Developers",
+    "email": "developers@geospoc.com",
+    "url": "https://geospoc.com"
+  },
+  "contributors": [
+    {
+      "name": "Vinayak Kulkarni",
+      "email": "vinayak.kulkarni@live.com",
+      "url": "https://github.com/vinayakkulkarni"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:geospoc/prettier-config-standard.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "config",
+    "eslint",
+    "prettier config standard",
+    "lint rules"
+  ],
+  "engines": {
+    "node": ">=10.20.0"
+  },
+  "bugs": {
+    "url": "https://github.com/geospoc/prettier-config-standard/issues"
+  },
+  "homepage": "https://github.com/geospoc/prettier-config-standard#readme"
+}
