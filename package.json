@@ -1,7 +1,7 @@
 {
   "name": "@geospoc/prettier-config-standard",
   "description": "Prettier config for JS / TS Apps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "sideEffects": false,
   "private": false,
   "publishConfig": {
